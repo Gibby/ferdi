@@ -182,7 +182,7 @@
     "husky": "^1.1.4",
     "jest": "24.9.0",
     "kebab-case": "1.0.0",
-    "lerna": "3.19.0",
+    "lerna": "6.4.1",
     "mobx-react-devtools": "6.1.1",
     "mocha": "5.2.0",
     "node-sass": "4.14.0",
